@@ -96,9 +96,9 @@
  *? інакше відобразити:"Не знаєте? ECMAScript!"
  */
 
-const answer = prompt('Яка офіційна назва JavaScript?');
-if (answer === 'ECMAScript') {
-  alert('Вірно!');
-} else {
-  alert('Не знаєте? ECMAScript!');
-}
+// const answer = prompt('Яка офіційна назва JavaScript?');
+// if (answer === 'ECMAScript') {
+//   alert('Вірно!');
+// } else {
+//   alert('Не знаєте? ECMAScript!');
+// }
